@@ -1,6 +1,3 @@
-![Boldizsar Varga Banner](img/banner.png)
-
----
 
 I'm a software developer with a passion for building reliable, well-structured systems. I have around 2 years of hands-on experience in backend development — designing microservices, working with relational databases, integrating third-party APIs, and maintaining CI/CD pipelines in a production fintech environment. This included direct collaboration with external development teams at large companies to align on requirements and integrations. I'm also expanding into full-stack development, applying React and Next.js in my own projects. I'm always eager to take on new technologies and challenges.
 
